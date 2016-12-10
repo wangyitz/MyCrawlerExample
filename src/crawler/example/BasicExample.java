@@ -9,7 +9,7 @@ import org.apache.commons.logging.impl.SimpleLog;
  * @author Abola Lee
  *
  */
-//This app is changed by wangyitz
+
 
 public class BasicExample {
 	// commit test
