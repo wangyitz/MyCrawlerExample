@@ -35,7 +35,7 @@ public class FacebookExam {
 				.select("data");
 		
 
-		String output = "id,內容,發布日期按，按HAHA總數\n";
+		String output = "id,內容,發布日期，按HAHA總數\n";
 
 		// 遂筆處理
 		for( Element data: elems ){
