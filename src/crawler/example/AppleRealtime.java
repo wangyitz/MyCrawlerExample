@@ -21,6 +21,7 @@ import com.google.common.collect.ImmutableSortedMap;
  * @author Abola Lee
  *
  */
+//This app is changed by wangyitz
 public class AppleRealtime {
 	
 	static SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHH:mm");
