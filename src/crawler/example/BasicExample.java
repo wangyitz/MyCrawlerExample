@@ -22,7 +22,10 @@ public class BasicExample {
 		CrawlerPack.setLoggerLevel(SimpleLog.LOG_LEVEL_OFF);
 
 		// 遠端資料路徑
-		String uri = "http://.../";
+		String uri = "http://crawler:12345678@128.199.204.20:8080"
+                + "/httpLogin/download.tar.gz"
+                + "!download.tar"
+                + "!/path/data";
 
 		System.out.println(
 				CrawlerPack.start()
