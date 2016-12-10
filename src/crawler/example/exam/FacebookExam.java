@@ -20,8 +20,7 @@ import org.jsoup.select.Elements;
 public class FacebookExam {
 	
 	public static void main(String[] args) {
-		
-		// 遠端資料路徑
+
 
 		String uri = 
 				"https://graph.facebook.com/v2.8"
